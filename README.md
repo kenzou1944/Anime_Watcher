@@ -8,4 +8,4 @@ Step 2:
 Pip install Selenium
 
 Step 3:
-Python3 Anime.py
+Python Anime.py
